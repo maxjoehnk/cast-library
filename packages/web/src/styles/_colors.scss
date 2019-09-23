@@ -1,0 +1,15 @@
+html.dark {
+    --bg-color: #3e3e3e;
+    --fg-color: #efefef;
+    --tile-color: #555;
+    --tile-hover-color: #444;
+}
+
+html.light {
+    --bg-color: #efefef;
+}
+
+$background: var(--bg-color);
+$foreground: var(--fg-color);
+$tile: var(--tile-color);
+$tile-hover: var(--tile-hover-color);

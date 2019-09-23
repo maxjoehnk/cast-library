@@ -1,0 +1,29 @@
+{
+    "name": "@cast-library/api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.ts",
+    "scripts": {
+        "start": "ts-node src/index.ts",
+        "format": "prettier --write src/**/*.ts"
+    },
+    "keywords": [],
+    "author": "Max Jöhnk <maxjoehnk@gmail.com>",
+    "dependencies": {
+        "castv2-client": "^1.2.0",
+        "debug": "^4.1.1",
+        "dotenv": "^8.1.0",
+        "express": "^4.17.1",
+        "got": "^9.6.0",
+        "mdns": "^2.5.1",
+        "plex-api": "^5.2.5",
+        "routing-controllers": "^0.7.7",
+        "typedi": "^0.8.0"
+    },
+    "devDependencies": {
+        "@types/node": "^12.7.5",
+        "prettier": "^1.18.2",
+        "ts-node": "^8.4.1",
+        "typescript": "^3.6.3"
+    }
+}

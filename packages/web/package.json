@@ -1,0 +1,29 @@
+{
+    "name": "@cast-library/web",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node proxy.js"
+    },
+    "keywords": [],
+    "author": "Max Jöhnk <maxjoehnk@gmail.com>",
+    "dependencies": {
+        "react": "^16.9.0",
+        "react-dom": "^16.9.0",
+        "react-router": "^5.0.1",
+        "react-router-dom": "^5.0.1"
+    },
+    "devDependencies": {
+        "@types/react": "^16.9.2",
+        "@types/react-dom": "^16.9.0",
+        "@types/react-router": "^5.0.5",
+        "@types/react-router-dom": "^4.3.5",
+        "express": "^4.17.1",
+        "http-proxy-middleware": "^0.20.0",
+        "parcel": "^1.12.3",
+        "sass": "^1.22.12",
+        "ts-node": "^8.4.1",
+        "typescript": "^3.6.3"
+    }
+}

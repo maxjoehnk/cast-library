@@ -1,0 +1,7 @@
+{
+    "workspaces": [
+        "packages/api",
+        "packages/web"
+    ],
+    "private": true
+}
