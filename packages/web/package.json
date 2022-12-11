@@ -19,7 +19,7 @@
         "@types/react-dom": "^16.9.0",
         "@types/react-router": "^5.0.5",
         "@types/react-router-dom": "^4.3.5",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "http-proxy-middleware": "^0.20.0",
         "parcel": "^1.12.3",
         "sass": "^1.22.12",
